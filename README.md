@@ -58,7 +58,7 @@ Dataset consists of total 43 different categories to classify. Below are the lis
   - 41 = End of no passing
   - 42 = End of no passing by vehicles over 3.5 metric tons
 
-### Run local
+### Follow the below steps to Run in local
 
 **Step 1**: Dowload the dataset from [here](https://drive.google.com/drive/folders/18g-6yMJMIuQRr5x7-QfExz8cImXQ-HOg?usp=sharing). And save it into the folder name as *dataset*.
 
@@ -68,7 +68,7 @@ Dataset consists of total 43 different categories to classify. Below are the lis
 
 **Step 4**: Open the *.ipynb* file with *Google Colaboratory*
 
-Congratulations! You are done. Run the *notebook* locally into your *google colab*.
+Congratulations! You are done. Run the *notebook* and see the model working into your *google colab*.
 
 **_Need help?_** 
 **_Feel free to contact me @ [premchandra.singh.5268@gmail.com](mailto:premchandra.singh.5268@gmail.com?Subject=Traffic-Signal-Classification)_**
